@@ -9,7 +9,7 @@ const facts = ["He was the last Beatle to learn to drive", "He was never a veget
  }
 
  function johnLennonFacts(facts) {
-     
+
      var nfacts=[];
      var i = 0;
 
